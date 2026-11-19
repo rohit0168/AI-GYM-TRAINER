@@ -2,6 +2,19 @@
    GLOBAL THEME
 ========================================================= */
 
+/* =========================================================
+   CUSTOM FONT
+========================================================= */
+
+@font-face {
+    font-family: 'AdobeClean';
+    src: url('/app/static/AdobeClean.otf') format('opentype');
+    font-weight: 100 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+
 .stApp {
   background-color: #0A0D14;
   color: #fff;
